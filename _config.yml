@@ -15,7 +15,7 @@
 </body>
 </html>
 <style>
-  body {
+  <body> {
     background-image: url('https://images.wallpapersden.com/image/download/om-nom-cut-the-rope-art_ZmdqbmeUmZqaraWkpJRnZmtlrWhtaWU.jpg');
     background-repeat: no-repeat;
     background-size: cover;
